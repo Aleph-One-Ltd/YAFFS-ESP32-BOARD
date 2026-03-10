@@ -1,6 +1,8 @@
 # YAFFS ESP32 Demo Board
 
-This folder contains the reference hardware design for the YAFFS-on-ESP32 demo platform used by the sample project in [`../YAFFS-test`](../YAFFS-test).
+This folder contains the reference hardware design for the YAFFS-on-ESP32 demo platform used by the accompanying sample project.
+
+![PCB view](PCB.png)
 
 The design is centered on an `ESP32-S3-MINI-1U-N4R2` module and two `W25N04KVZEIR` SPI NAND devices so the software example can mount YAFFS on external flash.
 
