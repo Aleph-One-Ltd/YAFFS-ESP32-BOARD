@@ -1,6 +1,6 @@
 # YAFFS ESP32 Demo Board
 
-This folder contains the reference hardware design for the YAFFS-on-ESP32 demo platform used by the accompanying sample project.
+The reference hardware design for the YAFFS-on-ESP32 demo platform used by the accompanying sample project.
 
 ![PCB view](PCB.png)
 
